@@ -15,7 +15,7 @@ This assignment will help you understand and practice essential Git commands rel
 
 ## Part 1: Setting Up Your Repository
 1. **Fork a Repository**  
-   - Go to [GitHub](https://github.com/) and find the repository shared by your instructor.
+   - Fork the repository.
    - Click the **Fork** button to create a copy under your own GitHub account.
 
 2. **Clone the Forked Repository**  
